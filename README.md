@@ -14,16 +14,16 @@ I'm a front-end developer passionate about building beautiful, accessible, and f
 - 🛠️ I love working with **component architecture**, **best practices**, and **testing**  
 - 💬 Always open to discussing performance, UX, and front-end architecture
 
+##  Techs and tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
 ## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesiqueiradev/)
 
-- [LinkedIn]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/guilhermesiqueiradev/))  
 
-## ⚡ Fun facts
 
-- 💡 I believe clean code is just as important as functional code  
-- 🤝 I enjoy contributing to open-source projects and sharing knowledge  
-- 📚 Always learning something new in the front-end world
-
----
-
-🌟 Let's build something amazing together!
